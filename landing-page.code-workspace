@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/Odin project/Flexbox"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "landing-page"
+	}
+}
